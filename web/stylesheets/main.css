@@ -21,7 +21,7 @@
 .navbar + .jumbotron {
   margin-top: -20px;
 }
-.jumbotron .fondo {
+.jumbotron .imagenes/fondo {
   display: block;
   background: #B01302;
   border-radius: 70%;
