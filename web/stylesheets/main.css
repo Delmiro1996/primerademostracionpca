@@ -11,11 +11,11 @@
 
 }
 .jumbotron .btn-primary {
-    background: #845ac7;
-    border-color: #845ac7;
+    background: #4b02bf;
+    border-color: #000000;
 }
 .jumbotron .btn-primary:hover {
-    background: #7646c1;
+    background: #6400ff;
 }
 .jumbotron p {
     color: #000000;
