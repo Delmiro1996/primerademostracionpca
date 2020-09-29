@@ -1,12 +1,12 @@
 .jumbotron {
-    background-image: url(/images/fondo.jpg);
+    background-image: url(/images/sailor-moon.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
     padding-bottom: 80px;
-    align-items: center;
-    min-height: calc(100vh - 5px);
+
+    height: 100%;
+
 }
 .jumbotron {
   background: #276EF4;
