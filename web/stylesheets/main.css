@@ -8,34 +8,39 @@
     height: 100%;
 
 }
+.jumbotron {
+  background: #276EF4;
+  color: white;
+  padding-bottom: 80px;
+}
 .jumbotron .btn-primary {
-    background: #845ac7;
-    border-color: #845ac7;
+  background: #276EF4;
+  border-color: #276EF4;
 }
 .jumbotron .btn-primary:hover {
-    background: #7646c1;
+  background: #276EF4;
 }
 .jumbotron p {
-    color: #d9ccee;
-    max-width: 75%;
-    margin: 1em auto 2em;
+  color: #fdfdfd;
+  max-width: 75%;
+  margin: 1em auto 2em;
 }
 .jumbotron h1 {
-    font-size: 40px;
+  font-size: 40px;
 }
 .navbar + .jumbotron {
-    margin-top: -20px;
+  margin-top: -20px;
 }
 .jumbotron .lang-logo {
-    display: block;
-    background: #B01302;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid white;
+  display: block;
+  background: #B01302;
+  border-radius: 70%;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border: 2px solid white;
 }
 .jumbotron .lang-logo img {
-    max-width: 200%;
+  max-width: 100%;
 }
