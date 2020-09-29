@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url(/images/fondo.jpg);
+    background-image: url(/images/sailor-moon.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,39 +8,34 @@
     height: 100%;
 
 }
-.jumbotron {
-  background: #276EF4;
-  color: white;
-  padding-bottom: 80px;
-}
 .jumbotron .btn-primary {
-  background: #276EF4;
-  border-color: #276EF4;
+    background: #845ac7;
+    border-color: #845ac7;
 }
 .jumbotron .btn-primary:hover {
-  background: #276EF4;
+    background: #7646c1;
 }
 .jumbotron p {
-  color: #fdfdfd;
-  max-width: 75%;
-  margin: 1em auto 2em;
+    color: #d9ccee;
+    max-width: 75%;
+    margin: 1em auto 2em;
 }
 .jumbotron h1 {
-  font-size: 40px;
+    font-size: 40px;
 }
 .navbar + .jumbotron {
-  margin-top: -20px;
+    margin-top: -20px;
 }
 .jumbotron .lang-logo {
-  display: block;
-  background: #B01302;
-  border-radius: 70%;
-  overflow: hidden;
-  width: 100px;
-  height: 100px;
-  margin: auto;
-  border: 2px solid white;
+    display: block;
+    background: #B01302;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid white;
 }
 .jumbotron .lang-logo img {
-  max-width: 100%;
+    max-width: 200%;
 }
