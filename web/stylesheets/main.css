@@ -8,13 +8,17 @@
     height: 100%;
 
 }
-
+.jumbotron {
+  background: #276EF4;
+  color: white;
+  padding-bottom: 80px;
+}
 .jumbotron .btn-primary {
-  background: #ffffff;
-  border-color: #ffffff;
+  background: #276EF4;
+  border-color: #276EF4;
 }
 .jumbotron .btn-primary:hover {
-  background: #ffffff;
+  background: #276EF4;
 }
 .jumbotron p {
   color: #fdfdfd;
