@@ -21,7 +21,7 @@
 .navbar + .jumbotron {
   margin-top: -20px;
 }
-.jumbotron .imagenes/fondo {
+.jumbotron .lang-logo {
   display: block;
   background: #B01302;
   border-radius: 70%;
@@ -31,6 +31,6 @@
   margin: auto;
   border: 2px solid white;
 }
-.jumbotron .fondo img {
+.jumbotron .lang-logo img {
   max-width: 100%;
 }
