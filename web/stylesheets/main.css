@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url(/images/fondo);
+    background-image: url(/images/fondo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,6 +7,11 @@
     padding-bottom: 80px;
     align-items: center;
     min-height: calc(100vh - 5px);
+}
+.jumbotron {
+  background: #276EF4;
+  color: white;
+  padding-bottom: 80px;
 }
 .jumbotron .btn-primary {
   background: #276EF4;
